@@ -10,6 +10,7 @@ function soma(){
 
     //ou pode ser usado
     // let resultado = +n1 + +n2
-    
-    
+   
 }
+
+// fazer botão reset e imprimir na tela
